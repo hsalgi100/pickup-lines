@@ -173,7 +173,7 @@ main =
 # APL
 
 ```apl
-'Are you a computer keyboard? Because you\'re my type!' 
+"Are you a computer keyboard? Because you're my type!" 
 ```
 
 
